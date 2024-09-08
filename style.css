@@ -1,0 +1,42 @@
+body{
+    background-color: #222222;
+    font-size: 22px;
+    background-size: cover;
+    background-attachment: fixed;
+}
+td{
+    vertical-align: text-top;
+}
+m{
+     background-size: cover;
+     background-attachment: fixed;
+}
+dt{
+    text-align: justify;
+    margin: 25px;
+}
+r{
+    font-family: "Roboto Condensed", sans-serif;
+    color: aliceblue;
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
+h1{
+    font-family: Georgia, "Times New Roman", Times, serif;
+    color: yellow;
+    font-size: 90px;
+}
+h2{
+    color: #f84919;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 26px;
+}
+p{
+    margin: 20px;
+}
+c{
+    color: #02F5F4;
+    text-decoration: underline;
+}

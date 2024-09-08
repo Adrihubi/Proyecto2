@@ -1,0 +1,49 @@
+body{
+    background-color: #222222;
+    font-size: 22px;
+    background-size: cover;
+    background-attachment: fixed;
+}
+td{
+    vertical-align: text-top;
+}
+m{
+    background-size: cover;
+    background-attachment: fixed;
+}
+dt{
+    text-align: justify;
+    margin: 25px;
+}
+r{
+    font-family: "Roboto Condensed", sans-serif;
+    color: aliceblue;
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
+h1{
+    font-family: Georgia, "Times New Roman", Times, serif;
+    color: #072F07;
+    text-align: left;
+    font-size: 25px;
+    margin: 25px;
+}
+h2{
+    font-family: Georgia, "Times New Roman", Times, serif;
+    color: #213BD0;
+}
+p{
+    margin: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    color: white;
+}
+z{
+    font-size: 20px;
+}
+c{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}

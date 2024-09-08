@@ -1,0 +1,45 @@
+body{
+    background-color: #222222;
+    font-size: 22px;
+    background-size: cover;
+    background-attachment: fixed;
+}
+td{
+    vertical-align: text-top;
+}
+m{
+    background-size: cover;
+    background-attachment: fixed;
+}
+dt{
+    text-align: justify;
+    margin: 25px;
+}
+r{
+    font-family: "Roboto Condensed", sans-serif;
+    color: aliceblue;
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
+h1{
+    font-family: "Lato", sans-serif;
+    color: red;
+    text-align: left;
+    font-size: 25px;
+    margin: 25px;
+}
+p{
+    margin: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+}
+b{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+}
+li{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+}
